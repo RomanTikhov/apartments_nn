@@ -1,0 +1,19 @@
+Цели данного мини-проекта:
+- Практика в парсинге данных;
+- Создание модели, предсказывающей стоимость квартиры в г. Нижнем Новгороде;
+- Тестирование библиотек для работы с моделями машшиного обучения: 
+     - "lazypredict" для выбора лучшей модели для дальнейшего тюнинга;
+     - "optuna" для подбора гиперпараметров модели;
+     - "LightAutoML" (LAMA) by Sber.
+- Приложение с предсказанием стоимости квартиры в Нижнем Новгороде, на базе обученной модели, с помощью streamlit
+
+
+The objectives of this mini-project are:
+- Practice in data parsing;
+- Creation of a model predicting the cost of an apartment in Nizhny Novgorod (Russia);
+- Testing libraries for working with machine learning models:
+     - "lazypredict" to select the best model for further tuning;
+     - "optuna" for the selection of hyperparameters of the model;
+     - "LightAutoML" (LAMA) by Sberbank.
+- An application with prediction of the cost of an apartment in Nizhny Novgorod, based on a trained model, using streamlit
+
