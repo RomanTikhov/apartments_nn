@@ -1,5 +1,4 @@
 import streamlit as st
-<<<<<<< HEAD
 import pickle
 import numpy as np
 import pandas as pd
@@ -68,6 +67,3 @@ with open(model_pkl_file, 'rb') as file:
     model = pickle.load(file)
 
 st.write(f"## Оценочная стоимость квартиры: {int(np.exp(model.predict(new))-1)} руб.")
-=======
-st.write("Hello world")
->>>>>>> b5c6d9a11c35887c4fa9b292dd25e95a3625e513
