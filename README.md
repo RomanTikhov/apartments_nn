@@ -6,6 +6,7 @@
      - "optuna" для подбора гиперпараметров модели;
      - "LightAutoML" (LAMA) by Sber.
 - Приложение с предсказанием стоимости квартиры в Нижнем Новгороде, на базе обученной модели, с помощью streamlit
+  https://apartmentsnn-mwhiiedajyjkf8csxbcppa.streamlit.app
 
 
 The objectives of this mini-project are:
@@ -16,3 +17,4 @@ The objectives of this mini-project are:
      - "optuna" for the selection of hyperparameters of the model;
      - "LightAutoML" (LAMA) by Sberbank.
 - An application with prediction of the cost of an apartment in Nizhny Novgorod, based on a trained model, using streamlit
+  https://apartmentsnn-mwhiiedajyjkf8csxbcppa.streamlit.app
